@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "ahmed amr",
+    "desc" : "already popular model, the Captain Cook dive watch gets a 2020 update in a green dial bronze case combo. It’s a style that’s proved a winner for other brands",
+    "img" : "./img/blog/popular-post/post1.webp",
+    "rating" : 75
+  },
+  {
+    "name" : "mohamed ahmed",
+    "desc" : "the Captain Cook dive watch gets a 2020 update in a green dial bronze case combo. It’s a style that’s proved a winner for other brands",
+    "img" : "./img/blog/popular-post/post4.webp",
+    "rating" : 50
+  },
+  {
+    "name" : "mostafa ibrahem",
+    "desc" : "A popular twist on an already popular model, the Captain Cook dive watch gets a 2020 update in a green dial bronze case combo. It’s a style that’s proved a winner for other brands",
+    "img" : "./img/blog/popular-post/post3.webp",
+    "rating" : 100
+  },
+  {
+    "name" : "salma",
+    "desc" : "Cook dive watch gets a 2020 update in a green dial bronze case combo. It’s a style that’s proved a winner for other brands",
+    "img" : "./img/blog/popular-post/post1.webp",
+    "rating" : 60
+  },
+  {
+    "name" : "shehab nageb",
+    "desc" : "already popular model, the Captain Cook dive watch gets a 2020 update in a green dial bronze case combo. It’s a style that’s proved a winner for other brands",
+    "img" : "./img/blog/popular-post/post3.webp",
+    "rating" : 80
+  },
+  {
+    "name" : "mohamed nabil",
+    "desc" : "popular twist on an already popular model, the Captain Cook dive watch gets a 2020 update in a green dial bronze case combo. It’s a style that’s proved",
+    "img" : "./img/blog/popular-post/post4.webp",
+    "rating" : 90
+  }
+]

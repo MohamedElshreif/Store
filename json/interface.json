@@ -1,0 +1,21 @@
+{
+  "interfaceDecktop": [
+    "./img/interface-1.webp",
+    "./img/interface-2.webp",
+    "./img/interface-3.webp",
+    "./img/interface-4.webp",
+    "./img/interface-5.webp",
+    "./img/interface-6.webp",
+    "./img/interface-7.webp"
+  ],
+  "interfaceMobile": [
+    "./img/mobile/interface-1.webp",
+    "./img/mobile/interface-2.webp",
+    "./img/mobile/interface-1.webp",
+    "./img/mobile/interface-3.webp",
+    "./img/mobile/interface-4.webp",
+    "./img/mobile/interface-5.webp",
+    "./img/mobile/interface-6.webp",
+    "./img/mobile/interface-7.webp"
+  ]
+}

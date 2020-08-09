@@ -1,0 +1,1 @@
+"use strict";var ponaImage=document.querySelector(".pano-image"),miamIamge="./img/360deg.jpg",panorama=new PANOLENS.ImagePanorama(miamIamge),viewer=new PANOLENS.Viewer({container:ponaImage});viewer.add(panorama);
